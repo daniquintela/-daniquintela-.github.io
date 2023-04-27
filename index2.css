@@ -58,7 +58,7 @@ header ul li a:hover {
 
 header ul {
     position:relative;
-    top:7cm;
+    top:6cm;
 }
 
 .info {
@@ -68,21 +68,7 @@ header ul {
 }
 
 .titulo1 {
-    display: flex;
-    position: absolute;
-    top: 4cm;
-    left: 25cm;
-}
-
-.hobbies {
-    position: absolute;
-    left: 20.5cm;
-    top: 5.5cm;
-    font-size:larger;
-}
-
-.titulo2 {
     position: absolute;
     left: 22.5cm;
-    top: 7.5cm;
+    top: 6.5cm;
 }
